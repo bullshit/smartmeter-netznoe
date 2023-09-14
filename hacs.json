@@ -1,8 +1,8 @@
 {
-    "name": "Integration blueprint",
-    "filename": "integration_blueprint.zip",
+    "name": "Smart Meter Netz NÖ",
+    "filename": "smartmeternetznoe.zip",
     "hide_default_branch": true,
-    "homeassistant": "2023.3.0",
+    "homeassistant": "2023.9.2",
     "render_readme": true,
     "zip_release": true
 }

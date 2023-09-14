@@ -1,0 +1,12 @@
+{
+  "domain": "smartmeternetznoe",
+  "name": "Smart Meter Netz NÖ",
+  "codeowners": [
+    "@bullshit"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/bullshit/smartmeter-netznoe",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/bullshit/smartmeter-netznoe/issues",
+  "version": "0.0.0"
+}

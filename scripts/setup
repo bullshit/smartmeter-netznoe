@@ -3,5 +3,10 @@
 set -e
 
 cd "$(dirname "$0")/.."
-
+python3 -m pip install --upgrade pip
 python3 -m pip install --requirement requirements.txt
+python3 -m pip install --requirement requirements.test.txt
+
+# https://github.com/home-assistant/core/issues/95192#issuecomment-1651849929
+python3 -m pip install git+https://github.com/boto/botocore
+

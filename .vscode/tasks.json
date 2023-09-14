@@ -6,6 +6,12 @@
             "type": "shell",
             "command": "scripts/develop",
             "problemMatcher": []
+        },
+        {
+            "label": "Run haas custom component tests",
+            "type": "shell",
+            "command": "scripts/test",
+            "problemMatcher": []
         }
     ]
 }
